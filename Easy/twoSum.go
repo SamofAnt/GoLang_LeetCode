@@ -1,4 +1,4 @@
-﻿package TwoSum
+package Easy
 
 func twoSum(nums []int, target int) []int {
 	hashTable := make(map[int]int)
