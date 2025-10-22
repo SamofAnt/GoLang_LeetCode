@@ -13,7 +13,8 @@ func main() {
 	// to see how GoLand suggests fixing the warning.</p><p>Alternatively, if available, click the lightbulb to view possible fixes.</p>
 	/*fmt.Println(Easy.RomanToInt("IV"))*/
 
-	str := []string{"dog", "racecar", "car"}
-	fmt.Println(Easy.LongestCommonPrefix(str))
+	/*	str := []string{"dog", "racecar", "car"}
+		fmt.Println(Easy.LongestCommonPrefix(str))*/
 
+	fmt.Println(Easy.IsValid("()"))
 }
